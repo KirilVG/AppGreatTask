@@ -1,0 +1,1 @@
+export const ApiRoute = process.env.VITE_PICTURES_APP_API_URL;
